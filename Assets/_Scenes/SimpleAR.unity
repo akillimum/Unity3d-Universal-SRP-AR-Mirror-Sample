@@ -680,7 +680,7 @@ MonoBehaviour:
   Cull: 0
   CullDistance: 0
   TextureSize: 1
-  ManualSize: 960
+  ManualSize: 1600
   UseCameraClipPlane: 0
   ClipPlaneOffset: 0
   ReflectLayers:
