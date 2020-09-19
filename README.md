@@ -1,3 +1,30 @@
+# This sample does not run as it is, you must have the below package:
+
+* URP & LWRP Mirror Shaders ([Package can be found here](http://u3d.as/1p3H))
+
+This sample shows how to use the mirror functionality (simple) via above package. So asset buyers can download and run (test) it. I will always try to use latest Unity version, so stay on update.
+
+# How to use
+
+Just buy the above package and include into the project. Project is tested on android but should work with iOS too (without doing extra changes).
+
+The sample scene is here:
+![github-large](https://github.com/akillimum/Unity3d-Universal-SRP-AR-Mirror-Sample/blob/master/Assets/_Images/Usage/Screen%20Shot%202020-09-19%20at%204.28.59%20PM.png)
+
+Just build it and run.
+
+Move your device camera to find a plane:
+![github-large](https://github.com/akillimum/Unity3d-Universal-SRP-AR-Mirror-Sample/blob/master/Assets/_Images/Usage/Screen%20Shot%202020-09-19%20at%204.30.29%20PM.png)
+
+When it finds the plane tap to place the car (and a floor object will reflect the car)
+![github-large](https://github.com/akillimum/Unity3d-Universal-SRP-AR-Mirror-Sample/blob/master/Assets/_Images/Usage/Screen%20Shot%202020-09-19%20at%204.30.43%20PM.png)
+![github-large](https://github.com/akillimum/Unity3d-Universal-SRP-AR-Mirror-Sample/blob/master/Assets/_Images/Usage/Screen%20Shot%202020-09-19%20at%204.31.16%20PM.png)
+
+That is it :)
+
+
+The code is buid on top of below notice, so I did not remove it:
+
 # AR Foundation Samples
 
 Example projects that use [*AR Foundation 3.0*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@3.0/manual/index.html) and demonstrate its functionality with sample assets and components.
