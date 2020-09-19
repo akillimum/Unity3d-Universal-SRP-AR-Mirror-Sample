@@ -6,7 +6,9 @@ This sample shows how to use the mirror functionality (simple) via above package
 
 # How to use
 
-Just buy the above package and include into the project. Project is tested on android but should work with iOS too (without doing extra changes).
+Just buy the above package and include into the project. Then switch to android build! 
+
+Project is tested on android but should work with iOS too (without doing extra changes).
 
 The sample scene is here:
 ![github-large](https://github.com/akillimum/Unity3d-Universal-SRP-AR-Mirror-Sample/blob/master/Assets/_Images/Usage/Screen%20Shot%202020-09-19%20at%204.28.59%20PM.png)
